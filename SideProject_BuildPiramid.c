@@ -3,7 +3,7 @@ int main(void)
 {
     int floor;
 
-    printf("¸î ÃşÀ¸·Î ½×°Ú´À³Ä?\n");
+    printf("ëª‡ ì¸µìœ¼ë¡œ ìŒ“ê² ëŠëƒ?\n");
     scanf("%d", &floor);
 
 
